@@ -50,7 +50,7 @@ const Ivan: Record<FieldType, string> = {
 <div><b>What I like:</b></div>
 
 - **Gaming:** my favorite games are *Hollow Knight*, *Stardew Valley*, and *Monster Hunter*
-- **Photography:** I love taking photos of nature and people. I also share my photos online
+- **Photography:** I love taking photos of nature and people. I also share my photos online (check my unsplash if you wish to see them)
 - **Anime:** my favorites are *One Piece* and *Vinland Saga*
 - **Writing:** I write quite often, but I keep it to myself (maybe one day I'll share it with others)
 - **Coffee:** I make my own coffee, and I can't live without it
