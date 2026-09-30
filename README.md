@@ -69,7 +69,7 @@ I also love reading and discussing recent tech news: new libraries, products, mo
 </table>
 
 <p align="center">
-  <img src="./Assets/5.jpg" style="width: 100%; height: 240px; object-fit: cover;">
+  <img src="./Assets/5-banner.jpg" width="100%">
 </p>
 
 ---
