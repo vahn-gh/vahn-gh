@@ -13,7 +13,6 @@ const Ivan: Record<FieldType, string> = {
   shipping: ["Fastlane", "GitLab CI/CD", "Maestro E2E", "Jest"],
   web: ["React", "Vue", "Angular", "Gatsby"],
   backend: ["Django", "PostgreSQL", "Docker"],
-  learning: ["C++"],
   education: "BSc, Web Technologies · 2019–2023, Moscow",
   agents: "Can help set up a spec-driven-development workflow",
   motto: "Still love writing code by hand, even in the age of agentic coding",
@@ -30,7 +29,6 @@ const Ivan: Record<FieldType, string> = {
 
 - Searching for a new, fun job
 - Working on my personal projects (finally, I have some time to work on my own stuff!)
-- Learning C++ (it's in React Native's new arch and I've always secretly wanted to learn it)
 - Practicing Leetcode (it's a privilege to suck at something and then get better at it)
 
 </td>
