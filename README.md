@@ -12,7 +12,7 @@ const Ivan: Record<FieldType, string> = {
   mobile: ["React Native", "Reanimated", "Redux Toolkit", "GraphQL", "MobX", "Native modules"],
   shipping: ["Fastlane", "GitLab CI/CD", "Maestro E2E", "Jest"],
   web: ["React", "Vue", "Angular", "Gatsby"],
-  backend: ["Django", "PostgreSQL", "Docker"],
+  backend: ["Django", "FastAPI", "PostgreSQL", "Docker"],
   education: "BSc, Web Technologies · 2019–2023, Moscow",
   agents: "Can help set up a spec-driven-development workflow",
   motto: "Still love writing code by hand, even in the age of agentic coding",
