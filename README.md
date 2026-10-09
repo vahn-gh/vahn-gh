@@ -28,7 +28,7 @@ const Ivan: Record<FieldType, string> = {
 
 <div><b>What I'm currently doing:</b></div>
 
-- Searching for a new and fun job!
+- Searching for a fun new job!
 - Working on my personal projects (finally, I have some time to work on my own stuff!):
   - Questeria — an app for task/goals management using quest-like interface, featuring quests boards, XP, sketching using PencilKit and offline-first database with server sync. Stack: React Native, nitro modules, python's fastAPI, PostgreSQL.
   - Stow — an app for managing your belongings using game-like pixel interface. Inspired by games — in games organization makes it so much more satisfying to organize your stuff. So, as a minimalist, I wanted to have something like this in real life to actually keep track of what you own. Stack: React Native, nitro modules (for something interesting) and python's fastAPI, PostgreSQL.
