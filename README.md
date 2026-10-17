@@ -1,21 +1,23 @@
 <h2 align="center">Hi there, I'm Ivan ( ´ ▽ ` )ﾉ</h2>
 
 <p align="center">
-  <em>React Native Engineer · 5+ years of building mobile apps · Moscow</em>
+  <em>React Native Engineer · 5 years of shipping mobile apps · Moscow · Open to hybrid, remote & relocation</em>
 </p>
 
 ```typescript
 const Ivan: Record<FieldType, string> = {
   role: "React Native Engineer",
-  experience: "5+ years of developing mobile apps",
-  languages: ["TypeScript", "JavaScript", "Python"],
-  mobile: ["React Native", "Reanimated", "Redux Toolkit", "GraphQL", "MobX", "Native modules"],
+  experience: "5+ years of shipping production mobile apps",
+  languages: ["TypeScript", "JavaScript", "Python", "Swift", "Kotlin", "SQL"],
+  mobile: ["React Native", "Reanimated", "Gesture Handler", "Redux Toolkit", "MobX", "GraphQL", "Realm", "Native iOS modules"],
   shipping: ["Fastlane", "GitLab CI/CD", "Maestro E2E", "Jest"],
   web: ["React", "Vue", "Angular", "Gatsby"],
   backend: ["Django", "PostgreSQL", "Docker"],
-  learning: ["FastAPI"],
+  learning: ["FastAPI", "ML/AI"],
+  exploring: ["Unity", "Godot", "C++ (JSI)", "Rust"],
+  spoken: ["Russian (native)", "English (B2)"],
   education: "BSc, Web Technologies · 2019–2023, Moscow",
-  agents: "Can help set up a spec-driven-development workflow",
+  agents: "Built a slice-driven-development workflow for AI coding agents",
   motto: "Still love writing code by hand, even in the age of agentic coding",
 };
 ```
@@ -28,9 +30,11 @@ const Ivan: Record<FieldType, string> = {
 
 <div><b>What I'm currently doing:</b></div>
 
-- Searching for a fun new job!
+- Searching for a new job
 - Working on my personal projects (finally, I have some time to work on my own stuff!):
-  - Questeria — an app for task/goals management using quest-like interface, featuring quests boards, XP, sketching using PencilKit and offline-first database with server sync. Stack: React Native, Nitro Modules, Realm, python's fastAPI, PostgreSQL, tsyringe and MobX.
+  - Questeria — an app for task/goals management using quest-like interface, featuring quests boards, XP, sketching using PencilKit and offline-first database with server sync. I'm also building my own ML model for sketch classification. Stack: React Native, Nitro Modules, Realm, python's fastAPI, PostgreSQL, tsyringe and MobX.
+  - react-native-pixelkit — a pixel-style React Native UI library, built for Questeria and reusable across my other apps.
+  - slice-driven-development-workflow — a lightweight workflow for building features with an AI coding agent: one spec per feature, split into short slices that the agent implements one at a time and a human reviews as code.
   - face_control — a simple utility to help me stay productive while also helping me to keep correct posture. Using python, MediaPipe, QT6
 - Practicing Leetcode (it's a privilege to suck at something and then get better at it)
 
