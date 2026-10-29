@@ -28,15 +28,24 @@ const Ivan: Record<FieldType, string> = {
 <tr>
 <td valign="top">
 
-<div><b>What I'm currently doing:</b></div>
+<b>What I'm currently doing:</b>
 
-- Searching for a new job
-- Working on my personal projects (finally, I have some time to work on my own stuff!):
-  - Questeria — an app for task/goals management using quest-like interface, featuring quests boards, XP, sketching using PencilKit and offline-first database with server sync. I'm also building my own ML model for sketch classification. Stack: React Native, Nitro Modules, Realm, python's fastAPI, PostgreSQL, tsyringe and MobX.
-  - react-native-pixelkit — a pixel-style React Native UI library, built for Questeria and reusable across my other apps.
-  - slice-driven-development-workflow — a lightweight workflow for building features with an AI coding agent: one spec per feature, split into short slices that the agent implements one at a time and a human reviews as code.
-  - face_control — a simple utility to help me stay productive while also helping me to keep correct posture. Using python, MediaPipe, QT6
-- Practicing Leetcode (it's a privilege to suck at something and then get better at it)
+
+<div><i>in_progress</i></div>
+
+- job hunting
+- questeria - an app for task/goals management using quest-like interface, featuring quests boards, XP, sketching using PencilKit and offline-first database with server sync. I'm also building my own ML model for sketch classification. Stack: React Native, Nitro Modules, Realm, python's fastAPI, PostgreSQL, tsyringe and MobX.
+- react-native-pixelkit — a pixel-style React Native UI library, built for Questeria and reusable across my other apps.
+- slice-driven-development-workflow — a lightweight workflow for building features with an AI coding agent: one spec per feature, split into short slices that the agent implements one at a time and a human reviews as code.
+- face_control — a simple utility to help me stay productive while also helping me to keep correct posture. Using python, MediaPipe, QT6
+- DSA leetcode practice for personal growth
+- studying ML/AI engineering
+- making my Arch Linux dotfiles
+- gym
+
+<div><i>planned<i/></div>
+  
+- engineering my own 3d printed Raspberry Pi handheld game console
 
 </td>
 <td width="340" align="center" valign="middle">
