@@ -16,7 +16,7 @@ const Ivan: Record<FieldType, string> = {
   learning: ["ML/AI", "Arch Linux / Hyprland ricing"],
   spoken: ["Russian (native)", "English (B2)"],
   education: "BSc, Web Technologies · 2019–2023, Moscow",
-  agents: "Built a slice-driven-development workflow for AI coding agents",
+  platforms: ["mac", "windows", "arch linux", "android", "iOS"],
   motto: "Still love writing code by hand, even in the age of agentic coding",
 };
 ```
